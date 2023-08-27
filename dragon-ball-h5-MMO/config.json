@@ -1,7 +1,7 @@
 {
     "name" : "Dragon Ball H5",
     "version" : "0.0.1",
-    "server" : "127.0.0.1:2004",
+    "server" : "192.168.1.4:2004",
     "srcSheet" : ["dam"],
     "font" : {
     "PatrickHandSCRegular" : "PatrickHandSC-Regular", 
